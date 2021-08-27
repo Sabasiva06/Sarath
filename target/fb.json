@@ -1,0 +1,388 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5285487500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeEachScenario()"
+            }
+          }
+        ],
+        "line": 26,
+        "name": "Verify Facebook with invalid username and invalid password",
+        "description": "",
+        "id": "validating-login-function-of-faccebook-application.;verify-facebook-with-invalid-username-and-invalid-password;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 4201624000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterEachScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 100100,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User is on facebook",
+            "match": {
+              "location": "StepDefenition.user_is_on_facebook()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 206928700,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user need to enter \"welcomejava\" and \"Hijava\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"welcomejava\"",
+                  "offset": 19
+                },
+                {
+                  "val": "\"Hijava\"",
+                  "offset": 37
+                }
+              ],
+              "location": "StepDefenition.user_need_to_enter_and(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 344679500,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "user should click login button",
+            "match": {
+              "location": "StepDefenition.user_should_click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 114700,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "user should validate error message.",
+            "match": {
+              "location": "StepDefenition.user_should_validate_error_message()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@reg"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4287177800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeEachScenario()"
+            }
+          }
+        ],
+        "line": 36,
+        "name": "Verify Facebook with invalid username and invalid password",
+        "description": "",
+        "id": "validating-login-function-of-faccebook-application.;verify-facebook-with-invalid-username-and-invalid-password;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 4150138400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterEachScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 30900,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "User is on facebook",
+            "match": {
+              "location": "StepDefenition.user_is_on_facebook()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 145456300,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "user need to enter \"welcomejava\" and \"Hijava\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"welcomejava\"",
+                  "offset": 19
+                },
+                {
+                  "val": "\"Hijava\"",
+                  "offset": 37
+                }
+              ],
+              "location": "StepDefenition.user_need_to_enter_and(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 64096600,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "user should click login button",
+            "match": {
+              "location": "StepDefenition.user_should_click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 97600,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "user should validate error message.",
+            "match": {
+              "location": "StepDefenition.user_should_validate_error_message()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3771386000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeEachScenario()"
+            }
+          }
+        ],
+        "line": 47,
+        "name": "Verify Facebook with invalid username and invalid password",
+        "description": "",
+        "id": "validating-login-function-of-faccebook-application.;verify-facebook-with-invalid-username-and-invalid-password;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 4149786200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterEachScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 40500,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "User is on facebook",
+            "match": {
+              "location": "StepDefenition.user_is_on_facebook()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 151930500,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "user need to enter \"welcomejava\" and \"Hijava\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"welcomejava\"",
+                  "offset": 19
+                },
+                {
+                  "val": "\"Hijava\"",
+                  "offset": 37
+                }
+              ],
+              "location": "StepDefenition.user_need_to_enter_and(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 64292700,
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "user should click login button",
+            "match": {
+              "location": "StepDefenition.user_should_click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 80200,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "user should validate error message.",
+            "match": {
+              "location": "StepDefenition.user_should_validate_error_message()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@sanity"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4439972800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeEachScenario()"
+            }
+          }
+        ],
+        "line": 58,
+        "name": "Verify Facebook with invalid username and invalid password",
+        "description": "",
+        "id": "validating-login-function-of-faccebook-application.;verify-facebook-with-invalid-username-and-invalid-password;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 4151793500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterEachScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 42100,
+              "status": "passed"
+            },
+            "line": 51,
+            "name": "User is on facebook",
+            "match": {
+              "location": "StepDefenition.user_is_on_facebook()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 156203600,
+              "status": "passed"
+            },
+            "line": 52,
+            "name": "user need to enter \"welcomejava\" and \"Hijava\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"welcomejava\"",
+                  "offset": 19
+                },
+                {
+                  "val": "\"Hijava\"",
+                  "offset": 37
+                }
+              ],
+              "location": "StepDefenition.user_need_to_enter_and(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 60844800,
+              "status": "passed"
+            },
+            "line": 53,
+            "name": "user should click login button",
+            "match": {
+              "location": "StepDefenition.user_should_click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 95500,
+              "status": "passed"
+            },
+            "line": 54,
+            "name": "user should validate error message.",
+            "match": {
+              "location": "StepDefenition.user_should_validate_error_message()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@E2E"
+          }
+        ]
+      }
+    ],
+    "name": "Validating login function of Faccebook application.",
+    "description": "",
+    "id": "validating-login-function-of-faccebook-application.",
+    "keyword": "Feature",
+    "uri": "src/test/resources/SampleLogin.feature",
+    "tags": []
+  }
+]

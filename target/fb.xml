@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="35.635236">
+<testcase classname="Validating login function of Faccebook application." name="Verify Facebook with invalid username and invalid password" time="10.040586">
+<system-out><![CDATA[Given User is on facebook...................................................passed
+When user need to enter "welcomejava" and "Hijava"..........................passed
+And user should click login button..........................................passed
+Then user should validate error message.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Validating login function of Faccebook application." name="Verify Facebook with invalid username and invalid password 2" time="8.647359">
+<system-out><![CDATA[Given User is on facebook...................................................passed
+When user need to enter "welcomejava" and "Hijava"..........................passed
+And user should click login button..........................................passed
+Then user should validate error message.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Validating login function of Faccebook application." name="Verify Facebook with invalid username and invalid password 3" time="8.137869">
+<system-out><![CDATA[Given User is on facebook...................................................passed
+When user need to enter "welcomejava" and "Hijava"..........................passed
+And user should click login button..........................................passed
+Then user should validate error message.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Validating login function of Faccebook application." name="Verify Facebook with invalid username and invalid password 4" time="8.809422">
+<system-out><![CDATA[Given User is on facebook...................................................passed
+When user need to enter "welcomejava" and "Hijava"..........................passed
+And user should click login button..........................................passed
+Then user should validate error message.....................................passed
+]]></system-out>
+</testcase>
+</testsuite>
